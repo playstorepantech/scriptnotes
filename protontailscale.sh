@@ -8,7 +8,7 @@ dpkg -i protonvpn-stable-release_1.0.3-2_all.deb
 apt-get update
 
 # Install ProtonVPN for GNOME Desktop
-apt-get install proton-vpn-gnome-desktop
+apt-get install proton-vpn-gnome-desktop -y
 
 # Install necessary dependencies
 #apt-get install libayatana-appindicator3-1 gir1.2-ayatanaappindicator3-0.1 gnome-shell-extension-appindicator
