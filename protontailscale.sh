@@ -10,7 +10,7 @@ apt-get update
 apt-get install proton-vpn-gnome-desktop
 
 # Install necessary dependencies
-apt-get install libayatana-appindicator3-1 gir1.2-ayatanaappindicator3-0.1 gnome-shell-extension-appindicator
+#apt-get install libayatana-appindicator3-1 gir1.2-ayatanaappindicator3-0.1 gnome-shell-extension-appindicator
 
 # Install Tailscale using the installation script
 curl -fsSL https://tailscale.com/install.sh | sh
